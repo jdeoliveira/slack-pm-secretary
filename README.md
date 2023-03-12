@@ -1,1 +1,1 @@
-# slack-wpr-secretary
+# slack-pm-secretary
